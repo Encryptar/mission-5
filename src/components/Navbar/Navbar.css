@@ -45,6 +45,11 @@ nav {
     color: #0C0C6C;
     text-decoration: none;
     margin:  0 20px;
+    cursor: pointer;
+    border-width: 0;
+    font-size: 1em;
+    font-weight: 700;
+    background-color: rgba(0, 0, 0, 0);
 }
 
 
@@ -54,7 +59,7 @@ nav {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    padding: 10px 37px;
+    padding: 2.5vh 3vw;
     gap: 10px;
     width: 80px;
     height: 30px;
@@ -63,8 +68,10 @@ nav {
     text-decoration: none;
     background: radial-gradient(50% 50% at 50% 50%, #343FAA 0%, #0C0C6C 100%);
     box-shadow: 0px 4px 4px rgba(12, 12, 108, 0.2);
+    border-width: 0;
     border-top-right-radius: 7px;
     border-bottom-right-radius: 7px;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
+    cursor: pointer;
 }

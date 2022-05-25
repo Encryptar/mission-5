@@ -15,8 +15,8 @@ const Navbar = () => {
           <li>Info & FAQ</li>
         </ul>
         <div className="account-buttons">
-          <a href='#' className='my-account-button'>My Account</a>
-          <a href='#' className='join-button'>Join</a>
+          <button className='my-account-button'>My Account</button>
+          <button className='join-button'>Join</button>
         </div>
     </nav>
   )

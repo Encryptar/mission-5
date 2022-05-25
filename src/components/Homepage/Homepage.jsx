@@ -1,7 +1,6 @@
 import React from 'react'
 import './Homepage.css'
 import {FaAward} from 'react-icons/fa'
-import search_engine from '../../components/pictures/turners-homepage/car-searchtool.png'
 
 const Homepage = () => {
   return (
