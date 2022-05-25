@@ -1,0 +1,70 @@
+nav {
+    text-decoration: none;
+    text-decoration: none;
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1.2em;
+    font-weight: 700;
+    background-color: rgb(255,255,255,0);
+}
+
+.logo {
+    margin-top: 0.5vh;
+    margin-left: 2vw;
+}
+
+.link-list {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: #0C0C6C;
+}
+
+.link-list li {
+    margin: 0 1.5vw 0 1.5vw;
+    cursor: pointer;
+}
+
+.account-buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 2px solid #0C0C6C;
+    width: fit-content;
+    border-radius: 10px;
+    margin-right: 2vw;
+    
+}
+
+.my-account-button {
+    color: #0C0C6C;
+    text-decoration: none;
+    margin:  0 20px;
+}
+
+
+
+.join-button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 37px;
+    gap: 10px;
+    width: 80px;
+    height: 30px;
+    color: #FFFFFF;
+    font-size: 1.4em;
+    text-decoration: none;
+    background: radial-gradient(50% 50% at 50% 50%, #343FAA 0%, #0C0C6C 100%);
+    box-shadow: 0px 4px 4px rgba(12, 12, 108, 0.2);
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}

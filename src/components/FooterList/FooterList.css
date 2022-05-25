@@ -1,0 +1,18 @@
+.footer-link-list {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    list-style-type: none;
+    font-size: 1.2em;
+    font-weight: 200;
+    padding: 0;
+}
+
+.footer-link-list li {
+    padding-bottom: 0.5vh;
+    cursor: pointer;
+}
+
+.footer-link-list li:first-child {
+    font-weight: 700;
+}

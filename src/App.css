@@ -1,0 +1,17 @@
+* {
+    font-family: 'Inter';
+    font-style: normal;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+*::-webkit-scrollbar {
+    display: none;
+  }
+
+.App {
+    width: 100vw;
+    background-image:url('./components/pictures/turners-homepage/homepage-background.png');
+    background-size: cover;
+    background-repeat: 'no-repeat';
+}
