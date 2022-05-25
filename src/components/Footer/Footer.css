@@ -26,11 +26,16 @@ footer {
     justify-content: space-between;
     align-items: center;
     cursor: pointer;
+    margin-bottom: 1vh;
 }
 
 .footer-icons {
     padding-right: 0.75vw;
     display: flex;
+}
+
+.footer-link-list {
+    margin: 0 0 0 0;
 }
 
 .footer-link-list-wrapper {
