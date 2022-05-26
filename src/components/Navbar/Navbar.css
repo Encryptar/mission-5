@@ -38,6 +38,7 @@ nav {
     width: fit-content;
     border-radius: 10px;
     margin-right: 2vw;
+    height: 60%;
     
 }
 
@@ -62,7 +63,7 @@ nav {
     padding: 2.5vh 3vw;
     gap: 10px;
     width: 80px;
-    height: 30px;
+    height: 100%;
     color: #FFFFFF;
     font-size: 1.4em;
     text-decoration: none;
