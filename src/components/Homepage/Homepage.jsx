@@ -137,7 +137,6 @@ const Homepage = () => {
                         </div>
                         <input className='search-submit' type={'submit'} value="Find a Car"/>
                     </div>
-                    
                 </fieldset> 
             </form>
         </div>

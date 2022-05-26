@@ -14,7 +14,8 @@ nav {
 
 .logo {
     margin-top: 0.5vh;
-    margin-left: 2vw;
+    margin-left: 1vw;
+    max-width: 220px;
 }
 
 .link-list {
